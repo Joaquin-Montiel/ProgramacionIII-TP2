@@ -1,0 +1,87 @@
+[
+   
+    {
+      "titulo": "Queen II",
+      "genero": "Rock",
+      "añoLanzamiento": 1974,
+      "descripcion": "El segundo álbum de estudio de Queen, conocido por su estilo musical experimental y la voz única de Freddie Mercury.",
+      "precio": 38.99
+    },
+    {
+      "titulo": "Back to Black",
+      "genero": "Soul",
+      "añoLanzamiento": 2006,
+      "descripcion": "Un álbum que combina soul clásico con toques modernos, lleno de emociones intensas.",
+      "precio": 33.99
+    },
+    {
+      "titulo": "Hotel California",
+      "genero": "Rock",
+      "añoLanzamiento": 1976,
+      "descripcion": "Un álbum clásico con temas icónicos como 'Hotel California'.",
+      "precio": 40.99
+    },
+    {
+      "titulo": "Nevermind",
+      "genero": "Grunge",
+      "añoLanzamiento": 1991,
+      "descripcion": "Un álbum revolucionario que marcó la era del grunge.",
+      "precio": 38.50
+    },
+    {
+      "titulo": "A Night at the Opera",
+      "genero": "Rock",
+      "añoLanzamiento": 1975,
+      "descripcion": "Incluye el icónico tema 'Bohemian Rhapsody', uno de los mayores éxitos de Queen.",
+      "precio": 36.99
+    },
+    {
+      "titulo": "The Wall",
+      "genero": "Rock Progresivo",
+      "añoLanzamiento": 1979,
+      "descripcion": "Un álbum conceptual y uno de los mayores logros de Pink Floyd.",
+      "precio": 44.00
+    },
+    {
+      "titulo": "Back In Black",
+      "genero": "Hard Rock",
+      "añoLanzamiento": 1980,
+      "descripcion": "El regreso de AC/DC con un sonido más pesado y exitoso.",
+      "precio": 38.50
+    },
+    {
+      "titulo": "The Joshua Tree",
+      "genero": "Rock",
+      "añoLanzamiento": 1987,
+      "descripcion": "Un álbum de U2 que alcanzó una gran popularidad mundial.",
+      "precio": 40.00
+    },
+    {
+      "titulo": "Canción Animal",
+      "genero": "Rock",
+      "añoLanzamiento": 1990,
+      "descripcion": "Un álbum clásico de Soda Stereo, con influencias del rock alternativo.",
+      "precio": 32.50
+    },
+    {
+      "titulo": "Californication",
+      "genero": "Rock",
+      "añoLanzamiento": 1999,
+      "descripcion": "Un álbum de los Red Hot Chili Peppers que marcó su regreso a la cima.",
+      "precio": 42.00
+    },
+    {
+      "titulo": "Appetite for Destruction",
+      "genero": "Hard Rock",
+      "añoLanzamiento": 1987,
+      "descripcion": "El primer álbum de Guns N' Roses, conocido por su estilo provocador.",
+      "precio": 45.00
+    },
+    {
+      "titulo": "Permanent Vacation",
+      "genero": "Rock",
+      "añoLanzamiento": 1987,
+      "descripcion": "Un álbum que marcó la madurez de Aerosmith en su carrera.",
+      "precio": 39.99
+  }
+]

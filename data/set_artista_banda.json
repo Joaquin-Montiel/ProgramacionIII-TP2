@@ -1,0 +1,57 @@
+[
+    {
+        "nombre": "Fleetwood Mac",
+        "añoCreacion": 1967,
+        "nacionalidad": "Reino Unido"
+    },
+    {
+        "nombre": "Queen",
+        "añoCreacion": 1970,
+        "nacionalidad": "Reino Unido"
+    },
+    {
+        "nombre": "Amy Winehouse",
+        "añoCreacion": 2003,
+        "nacionalidad": "Reino Unido"
+    },
+    {
+        "nombre": "Eagles",
+        "añoCreacion": 1971,
+        "nacionalidad": "Estados Unidos"
+    },
+    {
+        "nombre": "Nirvana",
+        "añoCreacion": 1987,
+        "nacionalidad": "Estados Unidos"
+    },
+    {
+        "nombre": "AC/DC",
+        "añoCreacion": 1973,
+        "nacionalidad": "Australia"
+    },
+    {
+        "nombre": "U2",
+        "añoCreacion": 1976,
+        "nacionalidad": "Irlanda"
+    },
+    {
+        "nombre": "Soda Stereo",
+        "añoCreacion": 1982,
+        "nacionalidad": "Argentina"
+    },
+    {
+        "nombre": "Red Hot Chili Peppers",
+        "añoCreacion": 1983,
+        "nacionalidad": "Estados Unidos"
+    },
+    {
+        "nombre": "Guns N' Roses",
+        "añoCreacion": 1985,
+        "nacionalidad": "Estados Unidos"
+    },
+    {
+        "nombre": "Aerosmith",
+        "añoCreacion": 1970,
+        "nacionalidad": "Estados Unidos"
+    }
+]
